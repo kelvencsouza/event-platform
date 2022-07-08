@@ -7,8 +7,8 @@ Uma plataforma single page de curso em vídeo.
 # 🚀 Tecnologias
 As principais tecnologias utilizadas nesse projeto foram:
 
-• graphql <br>
 • reactjs <br>
+• graphql <br>
 • html/css <br>
 • javascript <br>
 • typescript 
