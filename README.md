@@ -1,5 +1,5 @@
 # Plataforma de vídeos para evento
-Uma plataforma single page de curso em vídeo.
+Uma plataforma single page de curso em vídeo para evento.
 <br>
 # 🌐 Veja online
 <a href="https://ignite-lab-react-navy.vercel.app/" target="_blank">Clique aqui para ver</a>
